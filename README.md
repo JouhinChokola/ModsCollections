@@ -6,6 +6,6 @@ I've tested them and they increase my fps quite well.
 # Versions
 | Versions | Type | Status |
 | --- | --- | --- |
-| [1.20](https://github.com/JouhinChokola/ModsCollections/blob/main/PERFORMANCE) | Performance | W.I.P🚧 |
-| [1.19](https://github.com/JouhinChokola/ModsCollections/blob/main/PERFORMANCE) | Performance | W.I.P🚧 |
+| [1.20](docs/PERFORMANCE.md) | Performance | W.I.P🚧 |
+| [1.19](docs/PERFORMANCE.md) | Performance | W.I.P🚧 |
 | 1.16 | Performance | W.I.P🚧 |
