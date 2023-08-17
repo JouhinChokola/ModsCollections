@@ -13,7 +13,7 @@ Take a look below this! Thank you.
 # PERFORMANCE MODS
 **Here is the mods that can increase your FPS**
 | Versions | Type | Status | Available |
-| --- | --- | --- | --- |
+| :---: | :---: | --- | :---: |
 | 1.20 | [Performance](Mods/PERFORMANCE.md) | W.I.P🚧 | Fabric |
 | 1.19 | [Performance](Mods/PERFORMANCE.md) | W.I.P🚧 | Forge / Fabric |
 | 1.16 | Performance **/** VanillaPlus **/** ClientSide | Soon🛑 | Forge |
