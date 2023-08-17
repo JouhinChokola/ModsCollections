@@ -12,6 +12,6 @@ Some `Vanilla Plus` and `Client Side` mods are also included in the list but I w
 # List
 | Versions | Type | Status |
 | --- | --- | --- |
-| 1.20 | [Performance](Mods/PERFORMANCE) **/** [VanillaPlus](Mods/VanillaPlus) **/** Client Side| W.I.P🚧 |
-| 1.19 | [Performance](Mods/PERFORMANCE) **/** [VanillaPlus](Mods/VanillaPlus) **/** Client Side | W.I.P🚧 |
+| 1.20 | [Performance](Mods/PERFORMANCE.md) **/** [VanillaPlus](Mods/VanillaPlus) **/** Client Side| W.I.P🚧 |
+| 1.19 | [Performance](Mods/PERFORMANCE.md) **/** [VanillaPlus](Mods/VanillaPlus) **/** Client Side | W.I.P🚧 |
 | 1.16 | Performance **/** VanillaPlus **/** ClientSide | Soon🛑 |
