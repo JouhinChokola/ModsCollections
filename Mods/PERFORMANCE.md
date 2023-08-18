@@ -1,6 +1,7 @@
 # 1.19.x Forge
 > [!NOTE]
 > Actually all of the mods below can be install on client side but the performace may not improve much.
+
 | Mod Name | Use on |
 | --- | --- |
 | [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) | Server |
